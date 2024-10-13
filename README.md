@@ -8,14 +8,17 @@ MST의 성질을 활용하여 삼각형 모양 미로를 만들고, openframewor
 ```
 main.cpp
 │
-├── utils.h
-│   └── utils.cpp
+├── triheap.h
+│   └── triheap.cpp
 │
-└── matmul.h
-    ├── matmul.cu
-    ├── ver3.cu
-    ├── ver4.cu
-    └── ver5.cu
+├── tri.h
+│   └── tri.cpp
+|
+├── ofApp.h
+│   └── ofApp.cpp
+|
+└── ofxWinMenu.h
+    └── ofxWinMenu.cpp
 ```
 </br>
 
