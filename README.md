@@ -29,8 +29,8 @@ main.cpp
 </br>
 
 ## 🖥️ 게임 화면
-
+![_20211513_-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5b039a62-f0c0-4517-9723-900c683b465e)
 </br>
 
 ## ✍️ 발표자료
-<a href="https://tarry-devourer-382.notion.site/SGEMM-1172102a5e3980cfb3f2fcfdf82f6155?pvs=4">이 링크</a>에 업데이트 중입니다.
+<a href="https://github.com/user-attachments/files/17356524/ppt.pptx">이 링크</a>에서 확인할 수 있습니다.
